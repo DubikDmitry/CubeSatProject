@@ -2,9 +2,7 @@
 //#include "mml1.c"
 #include "vv2q.c"
 
-//typedef struct {
-//    double x, y, z;
-//} Vec3;
+
 
 Vec3 get_vec_sun(){
 	Vec3 s1;
